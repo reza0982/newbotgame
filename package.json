@@ -1,5 +1,5 @@
 {
-  "name": "newbot",
+  "name": "newbotgame",
   "version": "2.4.7",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -82,7 +82,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/reza0982/newbotgame.git"
+    "url": "git@github.com:reza0982/newbotgame.git"
   },
   "bugs": {
     "url": "https://github.com/reza0982/newbotgame.git"
