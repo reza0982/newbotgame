@@ -53,7 +53,6 @@
     "cookie": "^0.5.0",
     "jsdom": "^16.4.0",
     "link-preview-js": "2.1.13",
-    "yargs": "^17.2.1",
     "mongoose": "^6.2.1",
     "acrcloud": "^1.4.0",
     "lolcatjs": "^2.4.1",
