@@ -1,6 +1,6 @@
 {
-  "name": "hisoka-morou",
-  "version": "2.4.6",
+  "name": "newbot",
+  "version": "2.4.7",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
@@ -82,10 +82,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "https://github.com/reza0982/newbotgame.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/reza0982/newbotgame.git"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/reza0982/newbotgame.git"
 }
